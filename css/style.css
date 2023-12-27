@@ -1,0 +1,50 @@
+body {font-family: 'Silkscreen', sans-serif !important; 
+
+	background-color: #FAFAFA !important;
+	background-image: url(../immagini/img.png) !important;
+	 background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-size: 100% 100%;	
+
+}
+ h1, h2 {text-align: center}
+
+ h1 {font-size: 4em;
+
+	padding-left: 0.5em; 
+	padding-right: 0.5em !important;
+	padding-top: 0.5em !important;
+	padding-bottom: 0.5em !important;
+
+	margin-right: 0.90em !important;
+	margin-left: 0.90em !important;
+	margin-bottom: 0.50em !important;
+	margin-top: 0.50em !important;
+	color: white;
+}
+
+h2 {margin-bottom: 1em !important;
+	margin-top: 1em;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	font-size: 3em;
+	font-weight: bold;
+	color: white;
+}
+
+p { font-size: 1.50em;
+	padding-left: 3.5em ;
+	padding-top: 0.75em ;
+	padding-right: 3.5em ;
+	padding-bottom: 1em ;
+	color: black;
+
+}
+
+#button {text-align: center;
+	position: center;
+	margin-right: 40%;
+	margin-left: 42%;
+	margin-bottom: 5%;
+	margin-top: 3%;
+	background-color: red;		
